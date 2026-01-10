@@ -3,7 +3,7 @@ I'm Eva, a junior at Yale studying Electrical Engineering and Computer Science!
 - 🌱 Minecraft fan
 - 👾 Analog circuit enthusiast
 
-My Email: e.zheng[at]yale.edu
+💌 e.zheng[at]yale.edu
 
 <!--
 - 5'7
