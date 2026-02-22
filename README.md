@@ -1,5 +1,10 @@
 ## Hello ⋆˚꩜｡
 I'm Eva, a junior at Yale studying Electrical Engineering and Computer Science!
+<p></p>
+Relevant Coursework: <br>
+Circuits and Systems Design, Electronics, Computer Engineering, Semiconductor Devices, Computer Architecture <br>
+Data Structure, Algorithms, Systems Programming, Software Engineering
+<p></p>
 
 💌 e.zheng[at]yale.edu
 
