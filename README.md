@@ -1,5 +1,5 @@
 ## Hello ⋆˚꩜｡
-I'm Eva, a junior at Yale studying Electrical Engineering and Computer Science!
+I'm Eva, a rising senior at Yale studying Electrical Engineering and Computer Science!
 <p></p>
 Relevant Coursework: <br>
 Circuits and Systems Design, Electronics, Computer Engineering, Semiconductor Devices, Computer Architecture <br>
