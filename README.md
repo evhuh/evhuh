@@ -2,7 +2,7 @@
 I'm Eva, a rising senior at Yale studying Electrical Engineering and Computer Science!
 <p></p>
 Relevant Coursework: <br>
-Digital Systems, Circuits and Systems Design, Electronics, Computer Engineering, Semiconductors, Computer Architecture
+Digital Systems, Circuits and Systems Design, Electronics, Computer Engineering, Semiconductors, Computer Architecture, 
 Data Structure, Algorithms, Systems Programming, Software Engineering
 <p></p>
 
