@@ -1,4 +1,4 @@
-## Bello ⋆˚꩜｡
+## Hi!
 I'm Eva, a rising senior at Yale studying Electrical Engineering and Computer Science!
 <p></p>
 Relevant Coursework: <br>
